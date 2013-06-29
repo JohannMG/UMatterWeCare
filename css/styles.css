@@ -15,12 +15,13 @@ body{
 }
 
 .navigation{
-	float: center;
+		float: center;
 	padding-left: 1em;
 	width: 940px;
 	margin-right: auto;
   	margin-left: auto;
   	*zoom: 1;
+}
 }
 
 .navigation a:hover{
